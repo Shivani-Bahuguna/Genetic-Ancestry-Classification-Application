@@ -1,4 +1,4 @@
-# Genetic-Ancestry-Prediction-Application
+# Genetic-Ancestry-Classification-Application
 This is a prediction application designed to find an individual's ancestorial origins based on genetic data.
 
 The dataset used is obtained from Kaggle.
